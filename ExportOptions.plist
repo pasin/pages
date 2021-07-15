@@ -11,14 +11,21 @@
 		<key>appURL</key>
 		<string>https://pasin.github.io/pages/Client.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://pasin.github.io/pages/image-57.png</string>
+		<string>https://pasin.github.io/pages/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://pasin.github.io/pages/image-512.png</string>
+		<string>https://pasin.github.io/pages/image.512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.couchbaselabs.wavelength</key>
+		<string>Wavelength Test App Adhoc</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>

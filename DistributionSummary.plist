@@ -32,9 +32,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>58205b1e-4430-478c-bc04-ddb15ddf35fc</string>
+				<string>078d1ef9-19e3-4d25-a4ac-71c29c3cb2f2</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.couchbaselabs.wavelength</string>
+				<string>Wavelength Test App Adhoc</string>
 			</dict>
 			<key>team</key>
 			<dict>
