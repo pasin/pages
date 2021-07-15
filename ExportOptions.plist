@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://pasin.github.io/pages/Clinet.ipa</string>
+		<string>https://pasin.github.io/pages/Client.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://pasin.github.io/pages/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
